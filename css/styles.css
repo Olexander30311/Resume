@@ -165,59 +165,6 @@ ul, ol{
     margin-bottom: 40px;
 }
 
-/* work experience */
-
-.work-experience-title{
-    font-weight: 700;
-    font-size: 22px;
-    line-height: 123%;
-    color: #000;
-    margin: 0px 0px 8px 0px ;
-}
-
-.work-experience-company{
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 125%;
-    color: #000;
-    margin: 0px 0px 12px 0px;
-}
-
-.company-name{
-    color: #6d9bf5;
-}
-
-.work-experience-period{
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 125%;
-    color: #a8a8a8;
-    margin: 0px 0px 8px 0px;
-}
-
-.work-experience-period-separator{
-    color: #000;
-}
-
-.work-experience-duties-list{
-    padding-left: 16px;
-}
-
-.work-experience-duties-item{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 171%;
-    color: #595959;
-}
-
-.work-experience-container{
-    margin-bottom: 12px;
-}
-
-.main-work-experience-container{
-    margin-bottom: 40px;
-    margin-top: 40px;
-}
 
 /* education */
 
